@@ -90,5 +90,7 @@ class Main{
             System.out.println("the usn of the student is"+ s1.usn);
             System.out.println("the SGPA of the student is"+ s1.SGPA);
 
+             System.out.println("Sagar Bangari - 1BM22CS231");
+
     }
 }
