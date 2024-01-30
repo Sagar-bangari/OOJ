@@ -19,5 +19,6 @@ public class Studentmain {
             finalmarks[i].cfmarks();
             finalmarks[i].displayfmarks();
         }
+         System.out.println("Sagar Bangari - 1BM22CS231");
     }
 }
